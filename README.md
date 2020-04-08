@@ -20,6 +20,8 @@ You will need to create a training set (at least 100 images per class, potential
 * https://www.visualdata.io
 * https://ai.google/tools/datasets
 
+**Final Chosen dataset: Caltech101**
+
 ---
 
 You should not just work with a single pre-created dataset, but you can augment your own data with data from one or more other datasets, but there should be a significant level of novelty in the dataset created.
